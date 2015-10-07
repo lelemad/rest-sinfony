@@ -1,1 +1,1 @@
-# rest-sinfony
+# Sinfony2 Rest Service
